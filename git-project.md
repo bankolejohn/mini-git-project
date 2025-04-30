@@ -1,3 +1,9 @@
+
+
+<img width="1433" alt="Screenshot 2025-04-30 at 2 15 30 PM" src="https://github.com/user-attachments/assets/44fe8bf9-9838-43c6-9ab8-0f2f89dcbaa9" />
+
+
+
 # Resolving Concurrent Changes in Git: A Practical Scenario
 
 This document outlines a common scenario in Git where two developers make changes to the same file concurrently and how Git handles the merging of these changes.
