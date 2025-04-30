@@ -8,7 +8,7 @@
 # Resolving Concurrent Changes in Git: A Practical Scenario
 
 
-https://github.com/bankolejohn/mini-git-project.git
+https://github.com/bankolejohn/mini-git-project/blob/main/index.html
 
 
 This document outlines a common scenario in Git where two developers make changes to the same file concurrently and how Git handles the merging of these changes.
