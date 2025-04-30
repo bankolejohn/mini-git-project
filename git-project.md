@@ -1,10 +1,14 @@
+<img width="1436" alt="Screenshot 2025-04-30 at 4 38 54 PM" src="https://github.com/user-attachments/assets/fa33a730-dcb6-452c-9a04-e7aa80edafe2" />
 
 
-<img width="1433" alt="Screenshot 2025-04-30 at 2 15 30 PM" src="https://github.com/user-attachments/assets/44fe8bf9-9838-43c6-9ab8-0f2f89dcbaa9" />
 
 
 
 # Resolving Concurrent Changes in Git: A Practical Scenario
+
+
+https://github.com/bankolejohn/mini-git-project.git
+
 
 This document outlines a common scenario in Git where two developers make changes to the same file concurrently and how Git handles the merging of these changes.
 
@@ -192,11 +196,10 @@ This scenario demonstrates how Git allows multiple developers to work on the sam
 
 ## git commands 
 
-<img width="600" alt="Screenshot 2025-04-30 at 1 58 11 PM" src="https://github.com/user-attachments/assets/e4bd4ae1-7fb8-41c4-81f4-b46fb5ba7158" />
+<img width="610" alt="Screenshot 2025-04-30 at 4 47 17 PM" src="https://github.com/user-attachments/assets/1d78651f-5d40-427e-9542-64b86cdd4a61" />
+
+<img width="599" alt="Screenshot 2025-04-30 at 4 48 35 PM" src="https://github.com/user-attachments/assets/7686602b-8e8c-4706-b813-29ca358627fb" />
 
 
 
-<img width="638" alt="Screenshot 2025-04-30 at 1 57 49 PM" src="https://github.com/user-attachments/assets/c79eee37-c660-4739-8533-42976c6ec04c" />
 
-
-<img width="821" alt="Screenshot 2025-04-30 at 1 57 07 PM" src="https://github.com/user-attachments/assets/fccb6fb2-0056-49d9-b683-63e088d0c3dc" />
